@@ -48,9 +48,12 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cx51&layout=donut&theme=gotham&card_width=320" />
 </a></br>
 
+<!---
+
 ## Contributions
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cx51&theme=github_dark" alt="cx51's GitHub Stats"/>
+
 
 ## Streak
 
@@ -62,7 +65,7 @@
   
   ```Will be added soon!```
 </details>
-
+--->
 
 <!---
 cx51/cx51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
