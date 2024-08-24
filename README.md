@@ -1,7 +1,7 @@
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" height="40" width="40" />, I'm Charanpreet Singh
 **@cx51**
 
-- 🔭 I’m currently working on my HomeLab, hardening linux systems on cloud servers, deploying services and writing code at times
+- 🔭 I’m currently working on my HomeLab, hardening linux systems on cloud, deploying services and writing code at times
 - 🎓 Studied Computer Science
 - 📝 I regularly write articles on [blog.charanpreet.dev](https://blog.charanpreet.dev)
 - 💬 Ask me about **anything that's mentioned in my Tech Stack**
@@ -35,9 +35,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-
 
 ## GitHub Stats
 
