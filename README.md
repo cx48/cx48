@@ -18,14 +18,12 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -38,12 +36,18 @@
 
 ## GitHub Stats
 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cx51&theme=solarized)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cx51&theme=solarized)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cx51&theme=solarized)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cx51&theme=solarized) [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cx51&theme=solarized&utcOffset=+05.30)]([https://github.com/vn7n24fzkq/github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cx51&theme=solarized&utcOffset=+05.30))
+<!-- [![]()]() [![])]() -->
+
+<!--
 <a href="https://github.com/cx51/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cx51&theme=gotham&show_icons=true&hide=contribs,stars" />
 </a>
 <a href="https://github.com/cx51/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cx51&layout=donut&theme=gotham&card_width=320" />
 </a></br>
+-->
 
 <!---
 
