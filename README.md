@@ -42,7 +42,7 @@
 <!-- [![]()]() [![])]() -->
 
 > If I'm not responding then I'm probably out *somehwere*. You can leave a email!
-> <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ1OTE1NTcsIm5iZiI6MTcyNDU5MTI1NywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI1VDEzMDczN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwYWExZWQ0YzgxNTM3NGY4YzY2MWIwNTJkOWI5ODBjYmM0NzRhY2I1M2E2MTBjZWQxOGMxMTIzOTJmNjc3MzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gJbs2Wn4FqnFTkP6NaZTGoQxqjTmVf4MskAsKbr6Kmc" width="670" height="250">
+> <img src="https://raw.githubusercontent.com/cx51/cx51/main/background.gif" width="670" height="250">
 
 <!--  
 <details>
