@@ -38,7 +38,7 @@
 ## GitHub Stats
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cx48&theme=solarized)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cx51&theme=solarized)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cx51&theme=solarized)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cx48&theme=solarized) [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cx48&theme=solarized&utcOffset=+05.30)]([https://github.com/vn7n24fzkq/github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cx51&theme=solarized&utcOffset=+05.30))
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cx51&theme=solarized)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cx48&theme=solarized) [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cx48&theme=solarized&utcOffset=+05.30)]([https://github.com/vn7n24fzkq/github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cx48&theme=solarized&utcOffset=+05.30))
 <!-- [![]()]() [![])]() -->
 
 > If I'm not responding then I'm probably out *somehwere*. You can leave a email!
