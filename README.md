@@ -1,5 +1,5 @@
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" height="40" width="40" />, I'm Charanpreet Singh
-**@cx51**
+**@cx48**
 
 - 🔭 I’m currently working on my HomeLab, hardening linux systems on cloud, deploying services and writing code at times
 - 🎓 Studied Computer Science
@@ -37,8 +37,8 @@
 
 ## GitHub Stats
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cx51&theme=solarized)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cx51&theme=solarized)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cx51&theme=solarized)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cx51&theme=solarized) [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cx51&theme=solarized&utcOffset=+05.30)]([https://github.com/vn7n24fzkq/github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cx51&theme=solarized&utcOffset=+05.30))
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cx48&theme=solarized)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cx51&theme=solarized)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cx51&theme=solarized)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cx48&theme=solarized) [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cx48&theme=solarized&utcOffset=+05.30)]([https://github.com/vn7n24fzkq/github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cx51&theme=solarized&utcOffset=+05.30))
 <!-- [![]()]() [![])]() -->
 
 > If I'm not responding then I'm probably out *somehwere*. You can leave a email!
