@@ -1,9 +1,9 @@
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" height="40" width="40" />, I'm Charanpreet Singh
 **@cx48**
 
-- 🔭 I’m currently working on my HomeLab, hardening linux systems on cloud, deploying services and writing code at times
+- 🔭 I’m currently working on my HomeLab, deploying services and writing code at times
 - 🎓 Studied Computer Science
-- 📝 I regularly write articles on [blog.charanpreet.dev](https://blog.charanpreet.dev)
+- 📝 I write CTF/Lab walkthroughs on [blog.charanpreet.dev](https://blog.charanpreet.dev)
 - 💬 Ask me about **anything that's mentioned in my Tech Stack**
 - 📫 If you want to reach out to me [click here](https://www.charanpreet.dev)
 
