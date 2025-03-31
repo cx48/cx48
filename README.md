@@ -44,7 +44,7 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cx48&theme=solarized)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cx48&theme=solarized) [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cx48&theme=solarized&utcOffset=+05.30)]([https://github.com/vn7n24fzkq/github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cx48&theme=solarized&utcOffset=+05.30))
 <!-- [![]()]() [![])]() -->
 
-> If I'm not responding then I'm probably out *somehwere*. You can leave a email!
+> If I'm not responding then I'm probably out *somewhere*. You can leave a email!
 > <img src="https://raw.githubusercontent.com/cx48/cx48/main/background.gif" width="670" height="250">
 
 
