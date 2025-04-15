@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my HomeLab, deploying services and writing code at times
 - 🎓 Studied Computer Science
-- 📝 I write CTF/Lab walkthroughs on [blog.charanpreet.dev](https://blog.charanpreet.dev)
+- 📝 I write CTF/Lab walkthroughs on [ctf.charanpreet.dev](https://ctf.charanpreet.dev)
 - 💬 Ask me about **anything that's mentioned in my Tech Stack**
 - 📫 If you want to reach out to me [click here](https://www.charanpreet.dev)
 
